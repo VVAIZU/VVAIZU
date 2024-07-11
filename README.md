@@ -3,5 +3,5 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" style="max-width: 100%; height: auto;" />
 </h1>
 
-<h3 align="center">Student & Manager with coding as hobby 🇷🇺</h3>
+<h3 align="center">Manager & Student with coding as hobby 🇷🇺</h3>
 <p align="center">Game Development & Freelance coding</p>
